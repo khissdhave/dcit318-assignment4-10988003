@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\bin\Debug\Drawing_Canvas.exe.config
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\bin\Debug\Drawing_Canvas.exe
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\bin\Debug\Drawing_Canvas.pdb
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\obj\Debug\Drawing_Canvas.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\obj\Debug\Drawing_Canvas.Form1.resources
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\obj\Debug\Drawing_Canvas.Properties.Resources.resources
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\obj\Debug\Drawing_Canvas.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\obj\Debug\Drawing_Canvas.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\obj\Debug\Drawing_Canvas.exe
+C:\Users\david\source\repos\Drawing_Canvas\Drawing_Canvas\obj\Debug\Drawing_Canvas.pdb
